@@ -1,2 +1,2 @@
-# redux-ru-tutorial
+# react/redux
 1. `npm i`
